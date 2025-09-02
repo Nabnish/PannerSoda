@@ -1,3 +1,0 @@
-CREATE DATABASE HealthCare_Chatbot;
-USE HealthCare_Chatbot;
-CREATE TABLE PATIENT_RECORDS (PatientID INT,Name CHAR(60),DOB Date,Age INT,Gender CHAR (7),Blood_Group Char(5),Medication CHAR(40),Last_Visit Date,Next_of_kin CHAR(60),Contact_Number INT,Address VARCHAR(100));
